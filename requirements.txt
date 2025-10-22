@@ -1,0 +1,9 @@
+groq
+pydantic
+PyPDF2
+python-dotenv
+python-docx
+streamlit
+requests
+beautifulsoup4
+schedule
